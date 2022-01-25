@@ -1,0 +1,622 @@
+{
+    "header":[
+        {
+            "navbar":[
+                {
+                    "logo":{
+                        "text":"meal",
+                        "besidetext":".",
+                        "url":"https://preview.colorlib.com/theme/meal2/index.html"
+                    }
+                },
+                {
+                    "item":{
+                        "text":"Home",
+                        "url":"https://preview.colorlib.com/theme/meal2/index.html"
+                    }
+                },
+                {
+                    "item":{
+                        "text":"Menu",
+                        "url":"https://preview.colorlib.com/theme/meal2/menu.html",
+                        "dropdown":[
+                            {
+                                "menu":"Elements",
+                                "url":"https://preview.colorlib.com/theme/meal2/elements.html"
+                            },
+                            {
+                                "menu":"Menu Two",
+                                "url":"https://preview.colorlib.com/theme/meal2/index.html#",
+                                "submenu":[
+                                    {
+                                        "judul":"Sub Menu One",
+                                        "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                                    },
+                                    {
+                                        "judul":"Sub Menu Two",
+                                        "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                                    },
+                                    {
+                                        "judul":"Sub Menu Three",
+                                        "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                                    }
+                                ]
+                            },
+                            {
+                                "menu":"Menu Three",
+                                "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item":{
+                        "text":"Events",
+                        "url":"https://preview.colorlib.com/theme/meal2/events.html"
+                    }
+                },
+                {
+                    "item":{
+                        "text":"Gallery",
+                        "url":"https://preview.colorlib.com/theme/meal2/gallery.html"
+                    }
+                },
+                {
+                    "item":{
+                        "text":"About",
+                        "url":"https://preview.colorlib.com/theme/meal2/about.html"
+                    }
+                },
+                {
+                    "item":{
+                        "text":"Contact",
+                        "url":"https://preview.colorlib.com/theme/meal2/contact.html"
+                    }
+                },
+                {
+                    "button":{
+                        "text":"Book a table",
+                        "url":"https://preview.colorlib.com/theme/meal2/book-a-table.html"
+                    }
+                }
+            ]
+        }
+    ],
+    "body":[
+        {
+            "backgroundImage":{
+                "url":"images/xhero_bg.jpg.pagespeed.ic.08xBTGP0Gm.webp"
+            }
+        },
+        {
+            "carousel":{
+                "judul":"Enjoy Your Healthy Delicious Meal",
+                "subjudul":"Treat Yourself",
+                "text":"Another free template by",
+                "link":{
+                    "nama":"Colorlib",
+                    "url":"https://colorlib.com/"
+                },
+                "textLanjutan":". Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+            }
+        },
+        {
+            "button":{
+                "text":"Explore now",
+                "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+            }
+        },
+        {
+            "scroll":{
+                "text":"scroll down"
+            }
+        },
+        {
+            "sosmed":[
+                {
+                    "icon":"icon-whatshapp",
+                    "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                },
+                {
+                    "icon":"icon-instagram",
+                    "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                },
+                {
+                    "icon":"icon-facebook",
+                    "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                },
+                {
+                    "icon":"icon-twitter",
+                    "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                }
+            ]
+        },
+        {
+            "daftarMenu":[
+                {
+                    "sidebar":[
+                        {
+                            "caption":"SELECT YOUR MEAL",
+                            "subcaption":"Popular Foods"
+                        },
+                        {
+                            "img":"images/1x/noodles.png",
+                            "title":"Breakfast",
+                            "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                        },
+                        {
+                            "img":"images/1x/chicken.png",
+                            "title":"Lunch",
+                            "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                        },
+                        {
+                            "img":"images/1x/hotdog.png",
+                            "title":"Dinner",
+                            "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                        },
+                        {
+                            "img":"images/1x/drinks.png",
+                            "title":"Drinks",
+                            "url":"https://preview.colorlib.com/theme/meal2/index.html#"
+                        }
+                    ]
+                },
+                {
+                    "content":[
+                        {
+                            "judul":"Breakfast",
+                            "number":"1/4",
+                            "item":[
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_1.jpg.pagespeed.ic.VpbnsnaQH0.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Italian Sauce Mushroom",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_2.jpg.pagespeed.ic.55LLOE9kW3.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Salted Fried Chicken",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_3.jpg.pagespeed.ic.BODKukXBDK.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#", 
+                                        "text":"Fried Potato w/ Garlic",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_4.jpg.pagespeed.ic.rA2X4qH1me.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Shrimp and olive",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "judul":"Lunch",
+                            "number":"2/4",
+                            "item":[
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_1_b.jpg.pagespeed.ic.xI_LCEKnrv.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Italian Sauce Mushroom",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_2_b.jpg.pagespeed.ic.cc_QObtz2m.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Salted Fried Chicken",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_3_b.jpg.pagespeed.ic.v2DnERtnh7.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Fried Potato w/ Garlic",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_4_b.jpg.pagespeed.ic.nT4xKPv8mW.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Shrimp and olive",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "judul":"Dinner",
+                            "number":"3/4",
+                            "item":[
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_1.jpg.pagespeed.ic.VpbnsnaQH0.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Italian Sauce Mushroom",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_2.jpg.pagespeed.ic.55LLOE9kW3.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Salted Fried Chicken",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_1.jpg.pagespeed.ic.VpbnsnaQH0.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Fried Potato w/ Garlic",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_2.jpg.pagespeed.ic.55LLOE9kW3.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Shrimp and olive",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "judul":"Drinks",
+                            "number":"4/4",
+                            "item":[
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_1_d.jpg.pagespeed.ic.GsJi6X8mTu.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Italian Sauce Mushroom",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_2_d.jpg.pagespeed.ic.9EDBVJYz_t.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Salted Fried Chicken",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_3_d.jpg.pagespeed.ic.IpETz174WH.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Fried Potato w/ Garlic",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                },
+                                {
+                                    "varianMenu":{
+                                        "img":"https://preview.colorlib.com/theme/meal2/images/ximg_4_d.jpg.pagespeed.ic.pgUtHILOBE.webp",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#",
+                                        "text":"Italian Sauce Mushroom",
+                                        "currency":"$",
+                                        "price":"19.00"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dessert":[
+                {
+                    "subtitle":"Choose Desserts",
+                    "title":"Popular Desserts"
+                },
+                {
+                    "image":"https://preview.colorlib.com/theme/meal2/images/1x/xdessert_1.png.pagespeed.ic.CQP0J8oN1A.webp",
+                    "url":"https://preview.colorlib.com/theme/meal2/#",
+                    "text":"Cherry Muffin",
+                    "currency":"$",
+                    "price":"20"
+                },
+                {
+                    "image":"https://preview.colorlib.com/theme/meal2/images/1x/xdessert_2.png.pagespeed.ic.geW-S93g4E.webp",
+                    "url":"https://preview.colorlib.com/theme/meal2/#",
+                    "text":"Rose Muffin",
+                    "currency":"$",
+                    "price":"20"
+                },
+                {
+                    "image":"https://preview.colorlib.com/theme/meal2/images/1x/xdessert_5.png.pagespeed.ic.E_81DYe9HM.webp",
+                    "url":"https://preview.colorlib.com/theme/meal2/#",
+                    "text":"Sweet Donut",
+                    "currency":"$",
+                    "price":"20"
+                },
+                {
+                    "image":"https://preview.colorlib.com/theme/meal2/images/1x/xdessert_4.png.pagespeed.ic.9FFtnRH468.webp",
+                    "url":"https://preview.colorlib.com/theme/meal2/#",
+                    "text":"Choco Cake",
+                    "currency":"$",
+                    "price":"20"
+                }
+            ]
+            
+        },
+        {
+            "overlay":"images/xhero_bg_2.jpg.pagespeed.ic._RWbA_MDF0.webp"
+        },
+        {
+            "content":[
+                {
+                    "item":[
+                    {
+                        "subtitle":"Testimonials",
+                        "text":"Satisfied Customers",
+                        "item":[
+                            {
+                                "image":"https://preview.colorlib.com/theme/meal2/images/xperson_1.jpg.pagespeed.ic.xVOD9vMtws.webp",
+                                "nama":"John Doe",
+                                "position":"CEO, Founder",
+                                "icon":"&ldquo;",
+                                "text":"&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
+                            },
+                            {
+                                "image":"https://preview.colorlib.com/theme/meal2/images/xperson_2.jpg.pagespeed.ic.YR2Fv_KyXq.webp",
+                                "nama":"James Woodland",
+                                "position":"Designer at Facebook",
+                                "icon":"&ldquo;",
+                                "text":"&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.&rdquo;"
+                            },
+                            {
+                                "image":"https://preview.colorlib.com/theme/meal2/images/xperson_3.jpg.pagespeed.ic.X5GJfA-Lf7.webp",
+                                "nama":"Rob Smith",
+                                "position":"Product Designer at Twitter",
+                                "icon":"&ldquo;",
+                                "text":"&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;"
+                            }
+                        ]
+                    }
+                ]
+                },
+                {
+                    "item":[
+                        {
+                            "subtitle":"Galleries",
+                            "text":"Photo Galleries",
+                            "item":[
+                                {
+                                    "image":"https://preview.colorlib.com/theme/meal2/images/ximg_1.jpg.pagespeed.ic.VpbnsnaQH0.webp",
+                                    "url":"https://preview.colorlib.com/theme/meal2/images/img_1.jpg"
+                                },
+                                {
+                                    "image":"https://preview.colorlib.com/theme/meal2/images/ximg_2.jpg.pagespeed.ic.55LLOE9kW3.webp",
+                                    "url":"https://preview.colorlib.com/theme/meal2/images/img_2.jpg"
+                                },
+                                {
+                                    "image":"https://preview.colorlib.com/theme/meal2/images/ximg_1_b.jpg.pagespeed.ic.xI_LCEKnrv.webp",
+                                    "url":"https://preview.colorlib.com/theme/meal2/images/img_1_b.jpg"
+                                },
+                                {
+                                    "image":"https://preview.colorlib.com/theme/meal2/images/ximg_2_b.jpg.pagespeed.ic.cc_QObtz2m.webp",
+                                    "url":"https://preview.colorlib.com/theme/meal2/images/img_2_b.jpg"
+                                },
+                                {
+                                    "button":{
+                                        "text":"MORE GALLERIES",
+                                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "break":{
+                "subtitle":"EVENTS",
+                "title":"Enjoy Our Events",
+                "teks":"Far far away,behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                "product":[
+                    {
+                        "img":"https://preview.colorlib.com/theme/meal2/images/xparty_1.jpg.pagespeed.ic.ZlPeeA8kjM.webp",
+                        "currency":"$",
+                        "price":"200.99",
+                        "title":"Birthday Party",
+                        "teks":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+                        "list":[
+                            {
+                                "icon":"checklist",
+                                "teks":"Away behind the word"
+                            },
+                            {
+                                "icon":"checklist",
+                                "teks":"Bookmarksgrove right at the coast"
+                            },
+                            {
+                                "icon":"checklist",
+                                "teks":"Separated they live"
+                            }
+                        ]
+                    },
+                    {
+                        "currency":"$",
+                        "price":"200.99",
+                        "title":"Guest Chef Nihgt Party",
+                        "teks":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+                        "list":[
+                            {
+                                "icon":"checklist",
+                                "teks":"Away behind the word"
+                            },
+                            {
+                                "icon":"checklist",
+                                "teks":"Bookmarksgrove right at the coast"
+                            },
+                            {
+                                "icon":"checklist",
+                                "teks":"Separated they live"
+                            }
+                        ],
+                        "img":"https://preview.colorlib.com/theme/meal2/images/xparty_2.jpg.pagespeed.ic.VGd3fPR10T.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "break":{
+                "subtitle":"BOOK A TABLE",
+                "title":"Book A Table Now",
+                "text":"Far far away,behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                "button":{
+                    "text":"BOOK A TABLE",
+                    "url":""
+                }
+            }
+        }
+    ],
+    "footer":[
+        {
+            "items":{
+                "title":"About Meal",
+                "teks":"Far far away,behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+            }
+        },
+        {
+            "items":{
+                "title":"Connect",
+                "sosmed":[
+                    {
+                        "icon":"icon-insatgram",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "icon":"icon-twitter",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "icon":"icon-facebook",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "icon":"icon-linkedin",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "icon":"icon-pinterest",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "icon":"icon-dribble",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    }
+                ]
+            }
+        },
+        {
+            "items":{
+                "title":"Projects",
+                "list":[
+                    {
+                        "text":"Web Desain",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"HTML5",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"CSS3",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"jQuery",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"Bootstrap",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    }
+                ]
+            }
+        },
+        {
+            "items":{
+                "title":"Sevices",
+                "list":[
+                    {
+                        "text":"Design",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"Front-end",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"Code",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    },
+                    {
+                        "text":"Developer",
+                        "url":"https://preview.colorlib.com/theme/meal2/#"
+                    }
+                ]
+            }
+        },
+        {
+            "items":{
+                "addres":"43 Raymouth Rd.Baltemoer,London 3910",
+                "phone":{
+                    "nuber":"+(123)-456-7890",
+                    "url":"tel://11234567890"
+                },
+                "phone2":{
+                    "number":"+(123)-456-7890",
+                    "url":"tel://11234567890"
+                },
+                "email":{
+                    "text":"info@mydomain.com",
+                    "url":"info@mydomain.com"
+                }
+            }
+        },
+        {
+            "items":{
+                "text":"Copyright © 2022 All rights reserved | This template is made with ",
+                "icon":"icon-heart text-danger",
+                "teks":"by",
+                "url":"https://colorlib.com/"
+            }
+        }
+    ]
+}
